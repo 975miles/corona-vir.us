@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 35em;
+    margin: 0 auto;
+}
+.centred {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
